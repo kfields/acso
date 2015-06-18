@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACSO", "ACSO.csproj", "{73F26B7A-CCC0-45DA-81C4-D1AF1EAB2E9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crom.Controls", "Crom.Controls\Crom.Controls.csproj", "{F2999C1D-BED3-4D47-A8AC-8027334ECDC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73F26B7A-CCC0-45DA-81C4-D1AF1EAB2E9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73F26B7A-CCC0-45DA-81C4-D1AF1EAB2E9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73F26B7A-CCC0-45DA-81C4-D1AF1EAB2E9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73F26B7A-CCC0-45DA-81C4-D1AF1EAB2E9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2999C1D-BED3-4D47-A8AC-8027334ECDC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2999C1D-BED3-4D47-A8AC-8027334ECDC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2999C1D-BED3-4D47-A8AC-8027334ECDC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2999C1D-BED3-4D47-A8AC-8027334ECDC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

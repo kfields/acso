@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" Name="svg2" Width="800" Height="600"><Canvas.Resources/>
+    <Ellipse Canvas.Left="92.885" Canvas.Top="74.308" Height="10" Stroke="Black" Width="10" Fill="Chartreuse" />
+    <Ellipse Canvas.Left="214.35" Canvas.Top="151.474" Fill="Chartreuse" Height="10.003" Stroke="Black" Width="10.003" />
+    <Ellipse Canvas.Left="388.688" Canvas.Top="130.039" Fill="Chartreuse" Height="10.003" Stroke="Black" Width="10.003" />
+    <Ellipse Canvas.Left="75.737" Canvas.Top="188.628" Fill="Chartreuse" Height="10.003" Stroke="Black" Width="10.003" />
+    <Ellipse Canvas.Left="368.682" Canvas.Top="62.876" Fill="Chartreuse" Height="10.003" Stroke="Black" Width="10.003" />
+    <Ellipse Canvas.Left="120.036" Canvas.Top="281.513" Fill="Chartreuse" Height="10.003" Stroke="Black" Width="10.003" />
+    <Ellipse Canvas.Left="281.513" Canvas.Top="352.963" Fill="Chartreuse" Height="10.003" Stroke="Black" Width="10.003" />
+    <Ellipse Canvas.Left="331.528" Canvas.Top="258.649" Fill="Chartreuse" Height="10.003" Stroke="Black" Width="10.003" />
+    <Ellipse Canvas.Left="593.035" Canvas.Top="235.785" Fill="Chartreuse" Height="10.003" Stroke="Black" Width="10.003" />
+    <Ellipse Canvas.Left="564.455" Canvas.Top="87.169" Fill="Chartreuse" Height="10.003" Stroke="Black" Width="10.003" />
+</Canvas>
